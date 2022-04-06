@@ -67,6 +67,6 @@ function animationButton (key){
     setTimeout(() => {
         salom.classList.remove('pressed')
 
-    },200)
+    },70)
 }
 
