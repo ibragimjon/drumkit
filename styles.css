@@ -1,3 +1,7 @@
+html{
+  user-select: none;
+}
+
 body {
   text-align: center;
   background-color: #283149;
